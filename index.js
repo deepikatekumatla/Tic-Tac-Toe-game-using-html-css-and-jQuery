@@ -74,6 +74,9 @@ $("button").click(function(){
             setTimeout(function () {
                 $("h1").text("The Button is already pressed...Try another One");
               }, 1000);
+            setTimeout(function () {
+                $("h1").text("TIC-TAC-TOE");
+              }, 2000);
         }
     }
 
