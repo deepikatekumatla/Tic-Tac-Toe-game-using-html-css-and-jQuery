@@ -73,7 +73,7 @@ $("button").click(function(){
             sound("green");
             setTimeout(function () {
                 $("h1").text("The Button is already pressed...Try another One");
-              }, 2000);
+              }, 1000);
         }
     }
 
