@@ -76,7 +76,7 @@ $("button").click(function(){
               }, 1000);
             setTimeout(function () {
                 $("h1").text("TIC-TAC-TOE");
-              }, 2000);
+              }, 4000);
         }
     }
 
